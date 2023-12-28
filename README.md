@@ -12,22 +12,28 @@
 
 </div>
 
-# UI Machine Coding Projects
+# UI Machine Coding Projects 🚀👨‍💻
 
 Craft efficient and responsive user interfaces with our React machine coding projects. Elevate your development skills and create cutting-edge applications seamlessly. Explore, contribute, and innovate with our open-source GitHub repository.
+
+- `4 Ways to Fetch Data React`
+- `DropDown React`
+- `Search-Filter`
+- `star-rating`
+
 
 ## Features
 - 🚀 Boost your React proficiency
 - 💡 Explore innovative machine coding examples
 - 🌐 Build responsive and user-friendly interfaces
 
-## Getting Started
-1. Clone the repository: `git clone https://github.com/your-username/react-machine-coding.git`
-2. Navigate to the project: `cd react-machine-coding`
+## ⚡ Getting Started
+1. Clone the repository: `git clone https://github.com/your-username/Machine_Coding_Projects-.git`
+2. Navigate to the project: `cd Machine_Coding_Projects-`
 3. Install dependencies: `npm install`
 4. Start the development server: `npm start`
 
-## Contribution Guidelines
+## 🌱 Contribution Guidelines
 We welcome contributions! To get started:
 1. Fork the repository
 2. Create a new branch: `git checkout -b feature/new-feature`
@@ -37,6 +43,12 @@ We welcome contributions! To get started:
 
 ## License
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+
+## Contributors
+Thank you to our amazing contributors who have participated in this project:
+- [Yash Kumar Shrivas](https://github.com/YashkShrivas4491)
+
+
 
 ## Acknowledgements
 - Special thanks to the React community
