@@ -44,10 +44,11 @@ We welcome contributions! To get started:
 ## 📒 License
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
-## 💖Contributors
-Thank you to our amazing contributors who have participated in this project:
-- [Yash Kumar Shrivas](https://github.com/YashkShrivas4491)
+## 💖 Thanks to Our Contributors
 
+<a href="https://github.com/YashkShrivas4491/Machine_Coding_Projects-/contributors">
+  <img src="https://contributors-img.web.app/image?repo=YashkShrivas4491/Machine_Coding_Projects-" />
+</a>
 
 
 ## Acknowledgements
