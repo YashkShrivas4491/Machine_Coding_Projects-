@@ -22,7 +22,7 @@ Craft efficient and responsive user interfaces with our React machine coding pro
 - `star-rating`
 
 
-## Features
+## 🎉 Features
 - 🚀 Boost your React proficiency
 - 💡 Explore innovative machine coding examples
 - 🌐 Build responsive and user-friendly interfaces
@@ -41,10 +41,10 @@ We welcome contributions! To get started:
 4. Push to the branch: `git push origin feature/new-feature`
 5. Open a pull request
 
-## License
+## 📒 License
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
-## Contributors
+## 💖Contributors
 Thank you to our amazing contributors who have participated in this project:
 - [Yash Kumar Shrivas](https://github.com/YashkShrivas4491)
 
